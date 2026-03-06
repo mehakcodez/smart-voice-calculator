@@ -10,3 +10,5 @@ Features:
 - Lightweight and fast
 
 This project is designed as a beginner-to-intermediate level web application and works directly in the browser.
+
+🔗 Live Demo: 
