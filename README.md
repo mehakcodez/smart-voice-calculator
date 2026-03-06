@@ -11,4 +11,4 @@ Features:
 
 This project is designed as a beginner-to-intermediate level web application and works directly in the browser.
 
-🔗 Live Demo: 
+🔗 Live Demo: https://mehakcodez.github.io/smart-voice-calculator/
